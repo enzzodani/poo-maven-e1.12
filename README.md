@@ -27,4 +27,3 @@
 
 ## *Partes importantes do código fonte*
 
-## *Funcionalidades relevantes da biblioteca*
