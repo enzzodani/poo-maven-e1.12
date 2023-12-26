@@ -23,8 +23,6 @@
 * nexus-staging-maven-plugin: O Nexus Staging Maven Plugin é usado para facilitar a implantação (deploy) de artefatos no Nexus Repository.
 * maven-enforcer-plugin: O Maven Enforcer Plugin é usado para impor regras e políticas durante o processo de construção do Maven, garantindo que o projeto atenda a determinados critérios antes da compilação e implantação.
 
-## *Configurações específicas do projeto*
-
 ## *Partes importantes do código fonte*
 
 
@@ -34,6 +32,8 @@
 * Esse diretório temos a parte do código em si em `main/java/org/telegram/telegrambots` e a parte de testes unitários em `test`
 
 ## *Src*
+
+* [Caso você queira fazer algo Itamar, dê uma olhada no diretório telegrambots/src/main/java/org/telegram/telegrambots]
 
 ## *Test*
 
