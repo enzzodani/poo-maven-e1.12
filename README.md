@@ -39,10 +39,6 @@
 * O principal diretorio é o ./telegrambots/src/
 * Esse diretório temos a parte do código em si em `main/java/org/telegram/telegrambots` e a parte de testes unitários em `test`
 
-## *Src*
-
-* [Caso você queira fazer algo Itamar, dê uma olhada no diretório telegrambots/src/main/java/org/telegram/telegrambots]
-
 ## *Test*
 
 * Existem 6 códigos de teste: 
