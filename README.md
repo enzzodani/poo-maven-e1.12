@@ -1,5 +1,7 @@
 # Exercício E1.12
 
+[Link do repositório escolhido](https://github.com/rubenlagus/TelegramBots)
+
 ## *Dependências do projeto*
 
 * `lombok`: Lombok é uma biblioteca do Java que ajuda a reduzir a verbosidade do código-fonte, automatizando a geração de métodos padrão, como getters e setters, construtores, etc.
@@ -22,6 +24,12 @@
 * `maven-javadoc-plugin`: O Maven Javadoc Plugin é usado para gerar documentação a partir do código-fonte Java, incluindo Javadoc.
 * `nexus-staging-maven-plugin`: O Nexus Staging Maven Plugin é usado para facilitar a implantação (deploy) de artefatos no Nexus Repository.
 * `maven-enforcer-plugin`: O Maven Enforcer Plugin é usado para impor regras e políticas durante o processo de construção do Maven, garantindo que o projeto atenda a determinados critérios antes da compilação e implantação.
+
+## *Configurações específicas do projeto*
+
+* `JitPack`: 6.8.0
+* `maven central`: 6.8.0
+
 
 ## *Partes importantes do código fonte*
 
